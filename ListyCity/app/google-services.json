@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705693014822",
+    "project_id": "listycityfirebase05",
+    "storage_bucket": "listycityfirebase05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705693014822:android:2426225cb1554ff6743fe7",
+        "android_client_info": {
+          "package_name": "com.example.listycity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKJf4FziNWDAZUIisTQTN42VPPz78eQ1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
